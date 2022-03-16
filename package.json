@@ -1,5 +1,5 @@
 {
-  "name": "testing-example-stack",
+  "name": "jest-testing-example-stack",
   "private": true,
   "version": "0.0.0",
   "scripts": {
